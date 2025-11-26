@@ -1,0 +1,39 @@
+builtin:
+  disabled:
+    - undefined.cursor-themes
+disabled:
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+enabled:
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
+  - id: dtoplak.vscode-glsllint
+    uuid: 3718a7c9-0ac8-46dd-81b5-8bc53de038af
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: mtxr.sqltools
+    uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
+  - id: mtxr.sqltools-driver-pg
+    uuid: ff850146-c38e-4afe-8a34-705074ae16e2
+  - id: Natizyskunk.sftp
+    uuid: fe74bfaf-4260-454f-981c-6541d1d31822
+  - id: slevesque.shader
+    uuid: 3a63675f-7987-4cff-a411-d4a9568f560c
+  - id: yy0931.save-as-root
+    uuid: 948b6d63-352d-4c3e-9864-b7e3a9aa6163
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

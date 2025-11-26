@@ -1,0 +1,64 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\bjorn\\anaconda3\\envs\\vectorbt\\python.exe",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "extensions.ignoreRecommendations": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.automationProfile.windows": {},
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.quickSuggestionsDelay": 500,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.preview": true,
+    "files.exclude": {
+        "__pycache__": true,
+        ".pytest_cache": true,
+        "htmlcov": true
+    },
+    "remote.SSH.remotePlatform": {
+        "34.198.28.29": "linux"
+    },
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "E3929C3B-AB1B-4DC6-BD04-98A9D33E92FC"
+        }
+    ],
+    "mssql.enableRichExperiences": true,
+    "mssql.connections": [],
+    "vim.visualModeKeyBindings": [],
+    "vim.visualModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                ">"
+            ],
+            "commands": [
+                "editor.action.indentLines"
+            ]
+        },
+        {
+            "before": [
+                "<"
+            ],
+            "commands": [
+                "editor.action.outdentLines"
+            ]
+        }
+    ],
+    "workbench.editor.empty.hint": "hidden",
+    "python.testing.unittestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ]
+}
